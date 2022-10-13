@@ -1,0 +1,35 @@
+node-fn-name (3.0.0-1) unstable; urgency=medium
+
+  * Team upload.
+
+  [ Andrius Merkys ]
+  * New upstream version 3.0.0
+  * Not running tests as they require not yet packaged node modules.
+  * Using pkg-js-tools to build the package.
+  * Wrapping and sorting.
+  * Bumping debhelper-compat (no changes).
+  * Bumping Standards-Version (no changes).
+  * Adding 'Rules-Requires-Root: no'.
+
+  [ Debian Janitor ]
+  * Trim trailing whitespace.
+  * Set debhelper-compat version in Build-Depends.
+  * Update Vcs-* headers from URL redirect.
+  * Use canonical URL in Vcs-Git.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+ -- Andrius Merkys <merkys@debian.org>  Fri, 06 Nov 2020 07:49:48 -0500
+
+node-fn-name (2.0.1-2) unstable; urgency=medium
+
+  * Team upload
+  * Reupload to unstable
+
+ -- Pirate Praveen <praveen@debian.org>  Wed, 31 Jan 2018 19:51:33 +0530
+
+node-fn-name (2.0.1-1) experimental; urgency=low
+
+  * Initial release (Closes: #850133)
+
+ -- Shirish Togarla <shirishtogarla533@gmail.com>  Wed, 04 Jan 2017 10:38:54 +0000
